@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Rajesh Basnet/AndroidStudioProjects/dma_lab_exercise_2/HelloToast/app/src/main/res/layout-land/activity_coding_challenge.xml" value="0.10364583333333334" />
         <entry key="..\:/Users/Rajesh Basnet/AndroidStudioProjects/dma_lab_exercise_2/HelloToast/app/src/main/res/layout-land/activity_task1.xml" value="0.10364583333333334" />
         <entry key="..\:/Users/Rajesh Basnet/AndroidStudioProjects/dma_lab_exercise_2/HelloToast/app/src/main/res/layout-sw600dp/activity_task1.xml" value="0.264" />
         <entry key="..\:/Users/Rajesh Basnet/AndroidStudioProjects/dma_lab_exercise_2/HelloToast/app/src/main/res/layout/activity_coding_challenge.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Rajesh Basnet/AndroidStudioProjects/dma_lab_exercise_2/HelloToast/app/src/main/res/layout/activity_main.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Rajesh Basnet/AndroidStudioProjects/dma_lab_exercise_2/HelloToast/app/src/main/res/layout/activity_task1.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Rajesh Basnet/AndroidStudioProjects/dma_lab_exercise_2/HelloToast/app/src/main/res/layout/activity_task2.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Rajesh Basnet/AndroidStudioProjects/dma_lab_exercise_2/HelloToast/app/src/main/res/layout/activity_task3.xml" value="0.18425925925925926" />
         <entry key="..\:/Users/rajes/AndroidStudioProjects/HelloToast/app/src/main/res/layout-land/activity_coding_challenge.xml" value="0.4486486486486487" />
         <entry key="..\:/Users/rajes/AndroidStudioProjects/HelloToast/app/src/main/res/layout-land/activity_task1.xml" value="0.4486486486486487" />
         <entry key="..\:/Users/rajes/AndroidStudioProjects/HelloToast/app/src/main/res/layout-sw600dp/activity_task1.xml" value="0.19453125" />
